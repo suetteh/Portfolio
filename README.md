@@ -15,6 +15,6 @@ In the past two years of my learning jounrey in AI, I have completed more than 1
 •	Compared the performance of Decision Tree, Random Forest, Extreme Gradient Boosting models in predicting smoking status using more than 55,000 observations and 27 variables.
 
 ### Group
-### [NLP, Spelling Errors Detection System] (https://github.com/suetteh/NLP) (May-July 2023)
+### [NLP, Spelling Errors Detection System](https://github.com/suetteh/NLP) (May-July 2023)
 •	Developed a system which can detect non-words and real-words errors by using minimum edit distance.
 
